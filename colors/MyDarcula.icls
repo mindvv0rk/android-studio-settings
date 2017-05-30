@@ -27,8 +27,7 @@
     </option>
     <option name="LOGCAT_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff9800" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="ffbb33" />
       </value>
     </option>
   </attributes>
