@@ -1,6 +1,7 @@
 <application>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
+    <option name="IS_BLOCK_CURSOR" value="true" />
   </component>
   <component name="TodoConfiguration">
     <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
