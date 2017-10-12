@@ -6,6 +6,7 @@
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <removed_mapping ext="so" type="UNKNOWN" />
+      <mapping pattern="ic_be_courier" type="XML" />
     </extensionMap>
   </component>
 </application>
