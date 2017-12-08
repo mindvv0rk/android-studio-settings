@@ -2,28 +2,13 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_BLOCK_CURSOR" value="true" />
+    <option name="IS_CAMEL_WORDS" value="true" />
   </component>
   <component name="TodoConfiguration">
-    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
-      <option name="FOREGROUND" value="4a626b" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="dccb23" />
-    </pattern>
-    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bfixme\b.*">
-      <option name="FOREGROUND" value="4a626b" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="dccb23" />
-    </pattern>
-    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bfixme\b.replace">
-      <option name="FOREGROUND" value="4a626b" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="dccb23" />
-    </pattern>
-    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bTAG\b.*">
-      <option name="FOREGROUND" value="4a626b" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="dccb23" />
-    </pattern>
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern pattern="\bfixme\b.replace" />
+    <pattern pattern="\bTAG\b.*" />
     <filter name="fix serialization">
       <pattern index="2" />
     </filter>
