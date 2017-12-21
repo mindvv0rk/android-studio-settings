@@ -14,6 +14,10 @@
           <option name="url" value="http://android.googlesource.com" />
           <option name="userName" value="ai" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="mindvv0rk" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
