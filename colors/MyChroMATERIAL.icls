@@ -1,15 +1,13 @@
 <scheme name="MyChroMATERIAL" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-05-30T17:40:13</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2.3.2.0</property>
-    <property name="modified">2017-05-30T17:41:24</property>
+    <property name="modified">2018-03-20T00:48:13</property>
     <property name="originalScheme">ChroMATERIAL</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="11" />
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="8fa859" />
