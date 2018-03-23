@@ -1,5 +1,6 @@
 <templateSet group="AndroidComments">
-  <template name="shi" value="// ShareIt: $date$ $todo$ " description="adds //ShareIt" toReformat="false" toShortenFQNames="true">
+  <template name="shi" value="// ShareIt: $task_number$ $date$ $todo$ " description="adds //ShareIt" toReformat="false" toShortenFQNames="true">
+    <variable name="task_number" expression="" defaultValue="task" alwaysStopAt="true" />
     <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="todo" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
