@@ -3,5 +3,6 @@
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
     <pattern icon="important" pattern="\bshareIt\b.*" />
+    <pattern icon="important" pattern="\brefactor\b*" />
   </component>
 </application>
