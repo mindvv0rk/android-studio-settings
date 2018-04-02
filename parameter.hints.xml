@@ -3,6 +3,5 @@
     <blacklists>
       <blacklist language="Kotlin" />
     </blacklists>
-    <option id="SHOW_LAMBDA_RETURN_EXPRESSION" value="false" />
   </component>
 </application>
