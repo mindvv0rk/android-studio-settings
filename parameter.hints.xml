@@ -3,6 +3,5 @@
     <blacklists>
       <blacklist language="Kotlin" />
     </blacklists>
-    <option id="SHOW_LAMBDA_IMPLICIT_PARAMETER_RECEIVER" value="false" />
   </component>
 </application>
