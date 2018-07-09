@@ -1,12 +1,13 @@
 <application>
   <component name="SettingsState">
-    <option name="host" value="" />
-    <option name="token" value="" />
+    <option name="host" value="https://gitlab.icerockdev.com" />
+    <option name="token" value="88tbYui1j6pMJdtLuA9H" />
     <option name="servers">
       <list>
         <ServerDto>
-          <option name="host" value="https://gitlab.icerockdev.com/miakid/miakid-android" />
-          <option name="token" value="kTAasrFjbkSSJMy3ZT_z" />
+          <option name="defaultRemoveBranch" value="true" />
+          <option name="host" value="https://gitlab.icerockdev.com" />
+          <option name="token" value="88tbYui1j6pMJdtLuA9H" />
         </ServerDto>
       </list>
     </option>
