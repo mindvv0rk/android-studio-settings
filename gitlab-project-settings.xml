@@ -1,0 +1,14 @@
+<application>
+  <component name="SettingsState">
+    <option name="host" value="" />
+    <option name="token" value="" />
+    <option name="servers">
+      <list>
+        <ServerDto>
+          <option name="host" value="https://gitlab.icerockdev.com/miakid/miakid-android" />
+          <option name="token" value="kTAasrFjbkSSJMy3ZT_z" />
+        </ServerDto>
+      </list>
+    </option>
+  </component>
+</application>
