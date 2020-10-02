@@ -1,14 +1,11 @@
 <scheme name="MyChroMATERIAL" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-05-30T17:40:13</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2.3.2.0</property>
-    <property name="modified">2018-03-20T00:48:13</property>
+    <property name="modified">2020-10-02T12:09:41</property>
     <property name="originalScheme">ChroMATERIAL</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="8fa859" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -17,6 +14,7 @@
     <option name="CARET_ROW_COLOR" value="29363d" />
     <option name="CONSOLE_BACKGROUND_KEY" value="263238" />
     <option name="DELETED_LINES_COLOR" value="f77669" />
+    <option name="DIFF_SEPARATORS_BACKGROUND" value="212121" />
     <option name="FILESTATUS_ADDED" value="80cbc4" />
     <option name="FILESTATUS_DELETED" value="f77669" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="f77669" />
@@ -868,17 +866,18 @@
     </option>
     <option name="LOGCAT_DEBUG_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="33b5e5" />
+        <option name="FOREGROUND" value="2196f3" />
       </value>
     </option>
     <option name="LOGCAT_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff4444" />
+        <option name="FOREGROUND" value="f44336" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LOGCAT_INFO_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="99cc00" />
+        <option name="FOREGROUND" value="4caf50" />
       </value>
     </option>
     <option name="LOGCAT_VERBOSE_OUTPUT">
