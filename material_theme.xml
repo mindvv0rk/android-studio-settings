@@ -1,6 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="1.5.3.2" />
-    <option name="accentColor" value="388e3c" />
+    <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
+    <option name="accentColor" value="ff9800" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="72604767:174e8b55687:-7fff" />
+    <option name="version" value="4.11.5" />
   </component>
 </application>
